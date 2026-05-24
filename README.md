@@ -1,0 +1,3 @@
+Welcome to Santhosh Q Testing, the leading online platform for mastering software testing tools and techniques. Our mission is to empower individuals and organizations with the skills and knowledge required to excel in the field of software testing, using industry-standard tools.
+
+At Santhosh Q Testing, we provide high-quality, self-paced training courses designed by industry experts, catering to both beginners and advanced learners. Whether you’re looking to enhance your career in manual testing, automation testing, or performance testing, our courses offer comprehensive modules to meet your learning needs.
